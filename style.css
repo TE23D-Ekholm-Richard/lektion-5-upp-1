@@ -54,3 +54,7 @@ h2{
 .column{
     background-color: yellow;
 }
+
+.text{
+    border: solid yellow;
+}
